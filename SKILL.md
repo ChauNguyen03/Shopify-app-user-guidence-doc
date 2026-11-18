@@ -7,6 +7,7 @@ description: Write or fix a merchant user guide / help center page for any RockC
 **Context:** I am Business Analyst working to build shopify app names: Catalog Maker. I need to write guidance document for user/customer to know how to use our app.
 
 **Task:** You write short, easy-to-understand guide content for each page, with enough detail to use the feature. A screenshot supports the text, either now or later.
+
  **Trigger**: I provide screenshot of design and you need to create guidance page as workflow above.
 
 ## Your workflow
