@@ -1,0 +1,33 @@
+AGENT DESIGNER — Guide Page Writer
+
+Help me build ONE AI agent for my user guide folder. Use plain words, no jargon.
+
+THE AGENT'S JOB
+I give the agent a screenshot of the app. It writes one user guide page
+for the feature shown in that screenshot.
+
+BEFORE IT STARTS, IT READS THESE IN ORDER:
+1. My app design: [design file name, saved in this folder]
+   → to understand the app, its screens and its features.
+2. SKILL.md
+   → to learn the step-by-step process it must follow.
+3. Page template: [template file name]
+   → to learn the structure every page must follow.
+4. Screenshots folder: [folder name]
+   → example screenshots it can look at when it needs a reference.
+
+HOW EACH JOB RUNS:
+1. I give it a screenshot.
+2. It reads the 4 sources above.
+3. It finds which screen and feature the screenshot shows, using the design file.
+4. It writes the guide page using the page template, following SKILL.md.
+5. It checks the page against the template and the design, fixes any gaps
+   (max 2 rounds), then gives the page to me.
+
+IT MUST STOP AND ASK ME WHEN:
+- It can't tell which screen or feature the screenshot shows.
+- The screenshot shows something that isn't in the design file.
+- Any of the 4 sources is missing.
+
+Then follow the AGENT DESIGNER steps: look first, ask me up to 3 questions,
+show me the plan, build it, wrap up.
