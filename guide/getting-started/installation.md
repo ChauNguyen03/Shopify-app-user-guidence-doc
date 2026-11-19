@@ -1,7 +1,7 @@
-**Goal**
+# Goal
 Install RC PDF Catalog Maker and turn it on in your theme.
 
-**How to install**
+# How to install
 
 | Step | Screenshot |
 |---|---|

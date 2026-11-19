@@ -14,14 +14,14 @@ There are 3 page types. Pick the type first, then follow its format.
 
 1. **Page title**: lists the features covered, e.g. "How to set up video on gallery". No "?" on "How to..." titles.
 2. **Quick index** (small text under the title): short feature names, comma-separated, e.g. *Mute, Autoplay, Video view on click, Show play/pause icon*
-3. **Goal** (H2): one sentence on what the merchant accomplishes. If the page has 2+ purposes, put each on its own line. Don't number them.
-4. **Where to see & edit** (H2): a 2-column table, no header row.
+3. **Goal** (Heading 1): one sentence on what the merchant accomplishes. If the page has 2+ purposes, put each on its own line. Don't number them.
+4. **Where to see & edit** (Heading 1): a 2-column table, no header row.
 
    | | |
    |---|---|
    | In the Design editor, under **More settings**, open **[Panel]**. | *(screenshot: panel highlighted, no number)* |
 
-5. **What you can do** (H2): a 3-column table.
+5. **What you can do** (Heading 1): a 3-column table.
 
    | Feature | Editor | Preview |
    |---|---|---|
@@ -33,7 +33,7 @@ There are 3 page types. Pick the type first, then follow its format.
    - The Editor and Preview cells can be merged across all rows, with one screenshot each.
    - Add a description only when the feature name doesn't explain itself.
 
-6. **Troubleshooting** (H2, optional): only when merchants are likely to hit errors.
+6. **Troubleshooting** (Heading 1, optional): only when merchants are likely to hit errors.
 
    | Case | Issue | Solution |
    |---|---|---|
