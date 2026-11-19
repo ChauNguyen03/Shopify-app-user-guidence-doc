@@ -1,3 +1,8 @@
+**Page name:** Privacy Policy
+**Short description:** How RC PDF Catalog Maker collects, uses, and protects your data.
+
+---
+
 **Privacy Policy**
 
 Your Privacy Matters: RockCats' Commitment to Protecting Your Data

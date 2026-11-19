@@ -1,3 +1,8 @@
+**Page name:** Contact us
+**Short description:** How to reach RC PDF Catalog Maker's support team.
+
+---
+
 **Contact us**
 
 There are many different Shopify themes; each theme may have its own styling and structure. As a result, labels or elements may not always display properly on some stores.

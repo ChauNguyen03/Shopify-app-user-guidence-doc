@@ -79,6 +79,7 @@ One-line answer naming the setting in bold.
 
 ## Writing rules (all page types)
 
+- **Every page file** starts with `**Page name:** <name>` and `**Short description:** <one sentence>`, then a `---` divider, before the page's own title and content.
 - Verb-first ("Set...", "Click...", "Choose..."), not "You can..."
 - One idea per line. Put rules and limits in a sub-point (e.g. "• Not available with the Slider layout.")
 - Explain only what the name doesn't already say
