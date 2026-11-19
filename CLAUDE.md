@@ -25,7 +25,13 @@ description: Write or fix a merchant user guide / help center page for any RockC
 2. Rewrite each one for [RC PDF Catalog Maker]: correct the app name, and any other names, labels, or elements, so everything matches this app, not the example's original app.
 3. Show me each one for approval before moving on to individual "How to use" pages.
 
-### Step 2 — Individual "How to use" pages
+### Step 2 — Build the Help Center page
+1. Use `page-template.md`'s Type 2: Help Center structure, and `screenshots/examples/help-center-example.png` for style.
+2. Fill it from `guide/outline.md`: one group heading and table per group (Getting started, How to use, Save and publish, Support), with page numbers counting up across the whole page, not restarting per group.
+3. Link each guide that's already written; for one not written yet, list its name in plain text (no link) rather than guessing a link.
+4. Show me the page for approval before moving on to individual "How to use" pages.
+
+### Step 3 — Individual "How to use" pages
 All individual pages belong under **How to use**. I provide a screenshot of the real UI for each one. For each page:
 
 1. **Understand the app.** Read the app summary (`catalog-maker-summary.png`, or sent by me) to learn what the app is and how it works. If you can't find one, ask me first.
