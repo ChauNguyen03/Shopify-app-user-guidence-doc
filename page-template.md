@@ -47,13 +47,13 @@ There are 3 page types. Pick the type first, then follow its format.
 
 1. **Page title**: Gallery App Help Center
 2. **Intro line**: one sentence, e.g. "Step-by-step guides to set up and customize your galleries, Lookbooks, and collages." No Goal heading.
-3. **One H2 + one table per group**: Getting started, Gallery, Lookbook, Collage, All gallery types.
+3. **One Heading 1 + one table per group**: Getting started, Gallery, Lookbook, Collage, All gallery types. If a group is split into sub-sections, each sub-section title is also Heading 1 (e.g. "How to use — Product pages") — every heading on the page is the same level, nothing smaller.
 
    | Page # | Guide | What you'll learn |
    |---|---|---|
    | 1 | [Short guide name](link) | One short line. |
 
-   - **Page #** counts up across all groups (Getting started 1–3, Gallery 4–13, …), not restarting per table.
+   - **Page #** counts up across all groups (Getting started 1–3, Gallery 4–13, …), not restarting per table or sub-section.
    - **Guide** is a link to the page, with a short name (not the full "How to…" title).
 
 ---
