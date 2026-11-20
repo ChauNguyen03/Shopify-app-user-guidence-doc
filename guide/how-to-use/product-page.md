@@ -21,10 +21,10 @@ Set up a product page: choose which products to show, set their layout and color
 | Steps (5) | Preview |
 |---|---|
 | **1. Choose your products** — set **Source**:<br>&nbsp;&nbsp;▸ **Products** — pick products yourself<br>&nbsp;&nbsp;▸ **Collection** — pick products from a collection `[TBC: no screenshot yet for this option]`<br>&nbsp;&nbsp;▸ **Products by condition** — match them by rule (see below) | ![Source](product-source.jpg) |
-| **2. Set the layout**:<br>&nbsp;&nbsp;▸ **Columns**<br>&nbsp;&nbsp;▸ **Rows**<br>&nbsp;&nbsp;▸ **Space between cards**<br>&nbsp;&nbsp;▸ **Card style** | ![Layout](product-layout.jpg) |
+| **2. Set the layout** — set **Columns**, **Rows**, **Space between cards**, and **Card style**. | ![Layout](product-layout.jpg) |
 | **3. Set page colors**:<br>&nbsp;&nbsp;▸ **Background**<br>&nbsp;&nbsp;▸ **Dividers** | ![Page colors](product-colors.jpg) |
-| **4. Set the header**:<br>&nbsp;&nbsp;▸ **Header text**<br>&nbsp;&nbsp;▸ **Date**:<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **None** — hide the date<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **Current date** — show today's date<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **Custom date** — set a specific date<br>&nbsp;&nbsp;▸ **Show divider line**<br>&nbsp;&nbsp;▸ **Show logo**<br>&nbsp;&nbsp;▸ **Alignment**<br>&nbsp;&nbsp;▸ **Typography** — edit text style<br>&nbsp;&nbsp;▸ **Colors** — edit text color | ![Header](product-header.jpg) |
-| **5. Set the footer**:<br>&nbsp;&nbsp;▸ **Show divider line**<br>&nbsp;&nbsp;▸ **Page number**<br>&nbsp;&nbsp;▸ **Footer text**<br>&nbsp;&nbsp;▸ **Alignment**<br>&nbsp;&nbsp;▸ **Typography** — edit text style<br>&nbsp;&nbsp;▸ **Colors** — edit text color | ![Footer](product-footer.jpg) |
+| **4. Set the header** — set **Header text**, **Show divider line**, **Show logo**, and **Alignment**, plus:<br>&nbsp;&nbsp;▸ **Date**:<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **None** — hide the date<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **Current date** — show today's date<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **Custom date** — set a specific date<br>&nbsp;&nbsp;▸ **Typography** — edit text style<br>&nbsp;&nbsp;▸ **Colors** — edit text color | ![Header](product-header.jpg) |
+| **5. Set the footer** — set **Show divider line**, **Page number**, **Footer text**, and **Alignment**, plus:<br>&nbsp;&nbsp;▸ **Typography** — edit text style<br>&nbsp;&nbsp;▸ **Colors** — edit text color | ![Footer](product-footer.jpg) |
 
 **Products by condition**
 
