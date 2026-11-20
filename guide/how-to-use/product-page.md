@@ -39,11 +39,10 @@ Set up a product page: choose which products to show, set their layout and color
 
 **Advanced (use groups)** — turn this on to split your conditions into separate groups, then combine the groups together.
 
-| Steps (3) | Preview |
+| Steps (2) | Preview |
 |---|---|
-| **1. Create a group** — `[TBC: no "Add group" control is visible in these screenshots — confirm how a new group is created]` | |
-| **2. Set up the group**:<br>&nbsp;&nbsp;▸ **Condition row** — pick a **Field**, an **Operator**, and a **Value**<br>&nbsp;&nbsp;▸ **+ Add condition** — add another rule to this group<br>&nbsp;&nbsp;▸ **Match** — set this group's own conditions:<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **All** — every condition must match<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **Any** — at least one must match<br>&nbsp;&nbsp;▸ **Delete group** (trash icon) — remove this group<br>Repeat this step for each group you add. | ![Group 1](advanced-groups-1.jpg) |
-| **3. Combine the groups** — at the top, set **Match**:<br>&nbsp;&nbsp;▸ **All** — every group must match<br>&nbsp;&nbsp;▸ **Any** — at least one group must match | ![Group 2](advanced-groups-2.jpg) |
+| **1. Set up the group**:<br>&nbsp;&nbsp;▸ **Condition row** — pick a **Field**, an **Operator**, and a **Value**<br>&nbsp;&nbsp;▸ **+ Add condition** — add another rule to this group<br>&nbsp;&nbsp;▸ **Match** — set this group's own conditions:<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **All** — every condition must match<br>&nbsp;&nbsp;&nbsp;&nbsp;▹ **Any** — at least one must match<br>&nbsp;&nbsp;▸ **Delete group** (trash icon) — remove this group<br>Repeat this step for each group you add. | ![Group 1](advanced-groups-1.jpg) |
+| **2. Combine the groups** — at the top, set **Match**:<br>&nbsp;&nbsp;▸ **All** — every group must match<br>&nbsp;&nbsp;▸ **Any** — at least one group must match | ![Group 2](advanced-groups-2.jpg) |
 
 # Note
 For individual blocks (Text, Shape, Image, and the rest), see their own guide pages at [documentations.rockcats.site/e/en/apps/rc-ctalog-maker](https://documentations.rockcats.site/e/en/apps/rc-ctalog-maker).
