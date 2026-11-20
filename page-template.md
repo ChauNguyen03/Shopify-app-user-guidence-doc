@@ -15,11 +15,11 @@ There are 3 page types. Pick the type first, then follow its format.
 1. **Page title**: lists the features covered, e.g. "How to set up video on gallery". No "?" on "How to..." titles.
 2. **Quick index** (small text under the title): short feature names, comma-separated, e.g. *Mute, Autoplay, Video view on click, Show play/pause icon*
 3. **Goal** (Heading 1): one sentence on what the merchant accomplishes. If the page has 2+ purposes, put each on its own line. Don't number them.
-4. **Where to see & edit** (Heading 1): a 2-column table, no header row.
+4. **Where to see & edit** (Heading 1): a 2-column table, same column headers as **What you can do**.
 
-   | | |
+   | Where | Preview |
    |---|---|
-   | In the Design editor, under **More settings**, open **[Panel]**. | *(screenshot: panel highlighted, no number)* |
+   | In the Design editor, under **More settings**, open **[Panel]**. | *(screenshot: panel highlighted, box only, no number)* |
 
 5. **What you can do** (Heading 1): a 2-column table.
 

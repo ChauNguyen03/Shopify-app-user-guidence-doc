@@ -12,9 +12,9 @@ Create your first catalog and set it up end to end: pick a starting point, lock 
 
 # Where to see & edit
 
-From the **Dashboard**, click **Create new catalog**.
-
-![Dashboard — Create new catalog](create-first-catalog-dashboard.png)
+| Where | Preview |
+|---|---|
+| From the **Dashboard**, click **Create new catalog**. | ![Dashboard — Create new catalog](create-first-catalog-dashboard.png) |
 
 # What you can do
 
