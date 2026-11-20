@@ -31,9 +31,20 @@ Set up a product page: choose which products to show, set their layout and color
 | Field | What it does |
 |---|---|
 | **Condition row** — pick a **Field** (e.g. Title, Tag), an **Operator** (e.g. contains, is), and a **Value**. | ![Conditions](product-source-conditions.jpg) |
-| **+ Add condition** — add another rule. | |
-| **Advanced (use groups)** — group conditions together. | |
+| **+ Add condition** — add another rule to the current group. | |
 | **Apply** — save the conditions. | |
+
+**Advanced (use groups)** — turn this on to split your conditions into separate groups, each matched on its own.
+
+| Field | What it does | Preview |
+|---|---|---|
+| **1. Match** — at the top, choose whether **all** or any of the groups must match. | Each group repeats the same 4 controls. | ![Group 1](advanced-groups-1.jpg) |
+| **2. Match** (inside a group) — choose whether **all** or any of that group's own conditions must match. | | |
+| **3. Conditions** — the condition rows inside that group, same as above (Field, Operator, Value). | | ![Group 2](advanced-groups-2.jpg) |
+| **4. + Add condition** — add another rule to that specific group. | | |
+| **5. Delete group** (trash icon) — remove that group. | | |
+
+`[TBC: these 2 screenshots don't show an "Add group" button — confirm how a new group gets created before this part is final.]`
 
 # Note
 For individual blocks (Text, Shape, Image, and the rest), see their own guide pages at [documentations.rockcats.site/e/en/apps/rc-ctalog-maker](https://documentations.rockcats.site/e/en/apps/rc-ctalog-maker).
