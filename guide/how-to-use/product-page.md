@@ -37,17 +37,13 @@ Set up a product page: choose which products to show, set their layout and color
 
 - Turn on **Advanced (use groups)** to split conditions into separate groups, each with its own **All**/**Any** match (see below).
 
-**Advanced (use groups)** — turn this on to split your conditions into separate groups, each matched on its own.
+**Advanced (use groups)** — turn this on to split your conditions into separate groups, then combine the groups together.
 
-| Field | What it does | Preview |
-|---|---|---|
-| **1. Match** — at the top, choose:<br>&nbsp;&nbsp;▸ **All** — every group must match<br>&nbsp;&nbsp;▸ **Any** — at least one group must match | Each group repeats the same 4 controls. | ![Group 1](advanced-groups-1.jpg) |
-| **2. Match** (inside a group) — choose:<br>&nbsp;&nbsp;▸ **All** — every condition in the group must match<br>&nbsp;&nbsp;▸ **Any** — at least one must match | | |
-| **3. Conditions** — the condition rows inside that group, same as above:<br>&nbsp;&nbsp;▸ **Field**<br>&nbsp;&nbsp;▸ **Operator**<br>&nbsp;&nbsp;▸ **Value** | | ![Group 2](advanced-groups-2.jpg) |
-| **4. + Add condition** — add another rule to that specific group. | | |
-| **5. Delete group** (trash icon) — remove that group. | | |
-
-`[TBC: these 2 screenshots don't show an "Add group" button — confirm how a new group gets created before this part is final.]`
+| Steps (3) | Preview |
+|---|---|
+| **1. Create a group** — `[TBC: no "Add group" control is visible in these screenshots — confirm how a new group is created]` | |
+| **2. Set up the group**:<br>&nbsp;&nbsp;▸ **Condition row** — pick a **Field**, an **Operator**, and a **Value**<br>&nbsp;&nbsp;▸ **+ Add condition** — add another rule to this group<br>&nbsp;&nbsp;▸ **Match** — set this group's own conditions to **All** (every condition must match) or **Any** (at least one must match)<br>&nbsp;&nbsp;▸ **Delete group** (trash icon) — remove this group<br>Repeat this step for each group you add. | ![Group 1](advanced-groups-1.jpg) |
+| **3. Combine the groups** — at the top, set **Match** to **All** (every group must match) or **Any** (at least one group must match). | ![Group 2](advanced-groups-2.jpg) |
 
 # Note
 For individual blocks (Text, Shape, Image, and the rest), see their own guide pages at [documentations.rockcats.site/e/en/apps/rc-ctalog-maker](https://documentations.rockcats.site/e/en/apps/rc-ctalog-maker).
