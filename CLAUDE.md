@@ -35,11 +35,11 @@ description: Write or fix a merchant user guide / help center page for any RockC
 All individual pages belong under **How to use**. I provide a screenshot of the real UI for each one. For each page:
 
 1. **Understand the app.** Read the app summary (`catalog-maker-summary.png`, or sent by me) to learn what the app is and how it works. If you can't find one, ask me first.
-2. **Pick the page type.** Read the page template and choose the page type that fits the request.
+2. **Pick the page type.** Read `page-template.md` and choose the page type that fits the request, then read every rule file it links under `rules/` (content and screenshot rules) — they aren't optional extras.
 3. **Check examples.** Look at the example screenshots: one per page type, and one showing how to highlight. If you can't find them, ask once.
 4. **Verify, don't guess.** Check field names and behavior against the screenshot and the app's reference material. Never invent fields or behavior.
 5. **Ask when unclear.** If anything is unclear, ask me at most 3 short questions before writing (multiple-choice when possible). If I answer "later", leave a placeholder like `[TBC: ...]` and keep going.
-6. **Write** the page following the page template exactly.
+6. **Write** the page following the page template and every rule file under `rules/` exactly.
 7. **Annotate the screenshot** the same way as the highlight example: one numbered mark per step or feature, matching the numbered list.
 8. **Provide output**: page content and the annotated screenshot (PNG), **together, in the same pass** — never hand over plain/unhighlighted screenshots and leave the highlighting for a later follow-up.
 

@@ -74,65 +74,20 @@ One-line answer naming the setting in bold.
 
 ## Rules
 
+Each rule lives in its own file under `rules/`. Read every one of these before writing or annotating a page — they are not optional extras.
+
 ### A. Content
 
-**1. Page file setup**
-- Write the page name in H2 (`## Page name:`).
-- Write the short description as a normal paragraph.
-- Add a `---` divider after them.
-- Write the page title in H1 (`#`).
-- Use [App Name] as the app name.
-- Deliver the page's content and its highlighted screenshot together, in the same pass — never hand over a plain, unhighlighted screenshot and add the highlighting later as a follow-up.
-
-**2. Wording**
-- Start with a verb ("Set…", "Click…"), not "You can…".
-- Use plain words, no jargon.
-- Explain only what the name doesn't say.
-- Use US English ("color", not "colour").
-- Use "and" instead of "&" in sentences.
-- Start with a capital letter and end with a full stop.
-
-**3. Length and structure**
-- Keep one idea per line.
-- Put rules and limits in a sub-point.
-- Keep the main line under 10 words.
-- **Break each item onto its own line, with a short explanation, only when its logic isn't obvious** (e.g. a Match dropdown with All/Any: **All** — every condition must match / **Any** — at least one must match). Skip the explanation — and skip breaking it out at all — when the screenshot already makes it obvious (e.g. a **Text** or **Color** field needs no line of its own).
-- **If a list has more than 3 items, group them onto one line** instead of breaking each one out (e.g. "Set **Columns**, **Rows**, **Space between cards**, and **Card style**" rather than 4 separate lines) — unless one of those items needs its own explanation, in which case pull just that one out onto its own line and group the rest.
-- Skip text the screenshot already shows.
-
-**4. UI labels and page numbers**
-- Bold the exact UI labels (e.g. **Browse files**).
-- Put page numbers only in the Help Center **Page #** column.
-
-**5. Steps table**
-- **Steps (N)** in the column header is the number of steps in this table.
-- One row per step, each with its own screenshot (not one shared screenshot for the whole table).
-- Sub-options go as indented bullets under the step, not as separate rows.
-- Add a description only when the step name doesn't explain itself.
+1. [Page file setup](rules/content-page-file-setup.md)
+2. [Wording](rules/content-wording.md)
+3. [Length and structure](rules/content-length-and-structure.md)
+4. [UI labels and page numbers](rules/content-ui-labels-and-page-numbers.md)
+5. [Steps table](rules/content-steps-table.md)
 
 ### B. Screenshot
 
-**1. Style**
-- Highlight in blue `#2563EB`.
-- Use a blue circle badge with a white number and white 2px outline.
-- Draw a rounded box around each field.
-
-**2. Numbering**
-- Box the "Where to see & edit" image, with no number.
-- Number each feature to match its table row.
-- Number badges top to bottom, as they appear on screen.
-- Give the same number to controls that do the same action.
-
-**3. Combining images**
-- Join screens in a flow with a blue arrow.
-- Put two places side by side with a grey dashed divider.
-- Use the blue labels as the caption, with no extra caption.
-- Keep image labels short (e.g. "Fix: redraw blocks").
-
-**4. Errors**
-- Mark errors in red and fixes in blue.
-
-**5. Privacy and files**
-- Blur store names, URLs, themes, folders, and the app's internal name.
-- Keep each image under 200 KB.
-- Name files in lowercase with hyphens (e.g. `filters-callouts.png`).
+1. [Style](rules/screenshot-style.md)
+2. [Numbering](rules/screenshot-numbering.md)
+3. [Combining images](rules/screenshot-combining-images.md)
+4. [Errors](rules/screenshot-errors.md)
+5. [Privacy and files](rules/screenshot-privacy-and-files.md)
