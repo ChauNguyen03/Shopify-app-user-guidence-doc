@@ -1,5 +1,5 @@
 ## Page name: Privacy Policy
-## Short description: How RC PDF Catalog Maker collects, uses, and protects your data.
+How RC PDF Catalog Maker collects, uses, and protects your data.
 
 ---
 

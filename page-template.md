@@ -77,39 +77,60 @@ One-line answer naming the setting in bold.
 
 ---
 
-## Writing rules (all page types)
+## Rules
 
-- **Every page file** starts with `## Page name: <name>` and `## Short description: <one sentence>` (Heading 2, one level below the page's own Heading 1 content), then a `---` divider, before the page's own title and content.
-- Verb-first ("Set...", "Click...", "Choose..."), not "You can..."
-- One idea per line. Put rules and limits in a sub-point (e.g. "• Not available with the Slider layout.")
-- Explain only what the name doesn't already say
-- **Group simple, similar items into one line** instead of listing each separately (e.g. 3 template options that all work the same way → one bullet naming all 3, not 3 bullets).
-- **Match text brevity to what the screenshot already shows**: if the screenshot already makes something obvious at a glance, keep its text short, or skip explaining it at all.
-- Keep every line short: plain words, no jargon, aim for under ~10 words on the main line
-- Each description starts with a capital letter and ends with a full stop
-- Use the exact UI labels from the app, in bold (e.g. **Continue to editor**, **Browse files**)
-- US English ("color", not "colour")
-- Use "and" instead of "&" in sentences
-- Page numbers belong only in the Help Center **Page #** column, never in guide or FAQ text
-- **Deliver content and its highlighted screenshot together, in the same pass** — never hand over a plain, unhighlighted screenshot and add the highlighting later as a follow-up
+### A. Content
 
-## Naming
+**1. Page file setup**
+- Write the page name in H2 (`## Page name:`).
+- Write the short description as a normal paragraph.
+- Add a `---` divider after them.
+- Write the page title in H1 (`#`).
+- Use [App Name] as the app name.
+- Deliver the page's content and its highlighted screenshot together, in the same pass — never hand over a plain, unhighlighted screenshot and add the highlighting later as a follow-up.
 
-- App name: [App Name]
+**2. Wording**
+- Start with a verb ("Set…", "Click…"), not "You can…".
+- Use plain words, no jargon.
+- Explain only what the name doesn't say.
+- Use US English ("color", not "colour").
+- Use "and" instead of "&" in sentences.
+- Start with a capital letter and end with a full stop.
 
-## Screenshot annotation
+**3. Length and structure**
+- Keep one idea per line.
+- Put rules and limits in a sub-point.
+- Keep the main line under 10 words.
+- Group items that work the same way on one line.
+- Skip text the screenshot already shows.
 
-- **Highlight color:** blue `RGB(37, 99, 235)` / `#2563EB`
-- **Step badge:** filled blue circle, white number, white 2px outline
-- **Highlight box:** rounded rectangle around the field to focus on
-- **Where to see & edit image:** box only, no number
-- **What you can do image:** number each feature on the screenshot to match its row in the table
-- **Badge order:** number badges in the screenshot's own top-to-bottom reading order, and write the text sub-bullets in that same order — never assign numbers by an arbitrary list order that doesn't match how they actually sit on screen
-- **Same action, multiple controls:** when several controls do the same logical action (e.g. 3 "Use template" buttons for 3 templates), give them all the same badge number rather than numbering each one separately
-- **Flow across screens:** combine into one image, with a blue arrow between screens
-- **Two different places:** combine side by side with a grey dashed divider and a blue label on each; the labels are the caption — don't add another caption line below as well
-- **Errors (Troubleshooting):** red boxes and red labels; fixes use blue
-- **Labels on images:** short, e.g. "Before: blocks drawn wrong", "Fix: delete error blocks and draw new ones"
-- **Privacy:** blur store names, store URLs, theme names, real folders, and the app's internal name in the Shopify sidebar
-- **File size:** keep each image under **200 KB** (the CMS rejects larger files even though it shows 5 MB)
-- **File names:** lowercase with hyphens, no spaces (e.g. `filters-callouts.png`)
+**4. UI labels and page numbers**
+- Bold the exact UI labels (e.g. **Browse files**).
+- Put page numbers only in the Help Center **Page #** column.
+
+### B. Screenshot
+
+**1. Style**
+- Highlight in blue `#2563EB`.
+- Use a blue circle badge with a white number and white 2px outline.
+- Draw a rounded box around each field.
+
+**2. Numbering**
+- Box the "Where to see & edit" image, with no number.
+- Number each feature to match its table row.
+- Number badges top to bottom, as they appear on screen.
+- Give the same number to controls that do the same action.
+
+**3. Combining images**
+- Join screens in a flow with a blue arrow.
+- Put two places side by side with a grey dashed divider.
+- Use the blue labels as the caption, with no extra caption.
+- Keep image labels short (e.g. "Fix: redraw blocks").
+
+**4. Errors**
+- Mark errors in red and fixes in blue.
+
+**5. Privacy and files**
+- Blur store names, URLs, themes, folders, and the app's internal name.
+- Keep each image under 200 KB.
+- Name files in lowercase with hyphens (e.g. `filters-callouts.png`).

@@ -1,5 +1,5 @@
 ## Page name: Help Center
-## Short description: Step-by-step guides to set up and use your catalogs and flipbooks.
+Step-by-step guides to set up and use your catalogs and flipbooks.
 
 ---
 

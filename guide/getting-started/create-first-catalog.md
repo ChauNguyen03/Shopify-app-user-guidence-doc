@@ -1,5 +1,5 @@
 ## Page name: Create your first catalog
-## Short description: Build your first PDF catalog — choose a template, design your pages, edit products, and set catalog-wide options.
+Build your first PDF catalog — choose a template, design your pages, edit products, and set catalog-wide options.
 
 ---
 

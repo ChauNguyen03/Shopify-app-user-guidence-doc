@@ -1,5 +1,5 @@
 ## Page name: Contact us
-## Short description: How to reach RC PDF Catalog Maker's support team.
+How to reach RC PDF Catalog Maker's support team.
 
 ---
 
