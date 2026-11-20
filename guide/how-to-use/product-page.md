@@ -32,7 +32,7 @@ Set up a product page: choose which products to show, set their layout and color
 |---|---|
 | **Condition row** — pick a **Field** (e.g. Title, Tag), an **Operator** (e.g. contains, is), and a **Value**. | ![Conditions](product-source-conditions.jpg) |
 | **+ Add condition** — add another rule to the current group. | |
-| **Match** — choose **All** (every condition must match) or **Any** (at least one must match). | |
+| **Match** — choose:<br>&nbsp;&nbsp;▸ **All** — every condition must match<br>&nbsp;&nbsp;▸ **Any** — at least one must match | |
 | **Apply** — save the conditions. | |
 
 - Turn on **Advanced (use groups)** to split conditions into separate groups, each with its own **All**/**Any** match (see below).
@@ -41,8 +41,8 @@ Set up a product page: choose which products to show, set their layout and color
 
 | Field | What it does | Preview |
 |---|---|---|
-| **1. Match** — at the top, choose **All** (every group must match) or **Any** (at least one group must match). | Each group repeats the same 4 controls. | ![Group 1](advanced-groups-1.jpg) |
-| **2. Match** (inside a group) — choose **All** (every condition in the group must match) or **Any** (at least one must match). | | |
+| **1. Match** — at the top, choose:<br>&nbsp;&nbsp;▸ **All** — every group must match<br>&nbsp;&nbsp;▸ **Any** — at least one group must match | Each group repeats the same 4 controls. | ![Group 1](advanced-groups-1.jpg) |
+| **2. Match** (inside a group) — choose:<br>&nbsp;&nbsp;▸ **All** — every condition in the group must match<br>&nbsp;&nbsp;▸ **Any** — at least one must match | | |
 | **3. Conditions** — the condition rows inside that group, same as above (Field, Operator, Value). | | ![Group 2](advanced-groups-2.jpg) |
 | **4. + Add condition** — add another rule to that specific group. | | |
 | **5. Delete group** (trash icon) — remove that group. | | |
