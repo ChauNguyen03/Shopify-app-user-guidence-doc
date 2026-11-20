@@ -28,11 +28,6 @@ There are 3 page types. Pick the type first, then follow its format.
    | **1. Step name** — in **[location]**, pick a setting:<br>&nbsp;&nbsp;▸ **Sub-option**<br>&nbsp;&nbsp;▸ **Sub-option** | *(one screenshot for this step: the editor panel and its storefront result, side by side, with a short caption underneath)* |
    | **2. Step name** — Short description, only if the name isn't clear. | *(its own screenshot + caption)* |
 
-   - **Steps (N)** in the column header is the number of steps in this table.
-   - One row per step, each with its own screenshot (not one shared screenshot for the whole table).
-   - Sub-options go as indented bullets under the step, not as separate rows.
-   - Add a description only when the step name doesn't explain itself.
-
 6. **Troubleshooting** (Heading 1): only add this section when the user explicitly asks for it — never on your own, even if a screenshot shows a visible warning or error.
 
    | Case | Issue | Solution |
@@ -107,6 +102,12 @@ One-line answer naming the setting in bold.
 **4. UI labels and page numbers**
 - Bold the exact UI labels (e.g. **Browse files**).
 - Put page numbers only in the Help Center **Page #** column.
+
+**5. Steps table**
+- **Steps (N)** in the column header is the number of steps in this table.
+- One row per step, each with its own screenshot (not one shared screenshot for the whole table).
+- Sub-options go as indented bullets under the step, not as separate rows.
+- Add a description only when the step name doesn't explain itself.
 
 ### B. Screenshot
 
