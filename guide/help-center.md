@@ -13,7 +13,7 @@ Step-by-step guides to set up and use your catalogs and flipbooks.
 |---|---|---|
 | 1 | What is RC PDF Catalog Maker | What it does, main parts, and general flow. |
 | 2 | [Installation](getting-started/installation.md) | Install the app and turn it on in your theme. |
-| 3 | Create your first catalog | Set page size, language and currency, and pick products. |
+| 3 | [Create your first catalog](getting-started/create-first-catalog.md) | Go from an empty dashboard to a finished catalog: template, page setup, design, products, and global settings. |
 
 # How to use — Product pages
 
