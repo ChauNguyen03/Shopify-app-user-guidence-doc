@@ -101,8 +101,7 @@ One-line answer naming the setting in bold.
 - Keep one idea per line.
 - Put rules and limits in a sub-point.
 - Keep the main line under 10 words.
-- Group items that work the same way on one line.
-- **Break each option of a single choice onto its own line**, naming what it does (e.g. a Match dropdown with All/Any: **All** — every condition must match / **Any** — at least one must match). This is the opposite case from grouping similar items: grouping is for several separate controls that work the same way, breaking out is for the exclusive options of one control.
+- **Break each item onto its own line** — fields, options, steps, anything enumerable. No long sentence that combines several items in one line; one item, one line, naming what it does if that's not obvious (e.g. a Match dropdown with All/Any: **All** — every condition must match / **Any** — at least one must match).
 - Skip text the screenshot already shows.
 
 **4. UI labels and page numbers**
