@@ -5,6 +5,20 @@ description: Write or fix a merchant user guide / help center page for any RockC
 
 # App User Guide — Writing Skill (all apps)
 
+## About me
+
+I'm Jolie, BA/QA at RockCats. I review every page before it goes live.
+
+**How I like work done**
+- Ask first if unclear: my requests are often short; ask max 3 short questions.
+- Don't guess: mark unknowns as `[TBC: ...]` instead of inventing.
+- Small edits: when I ask to change one thing, change only that and keep the rest.
+- Show the result: give me the updated text, not a long explanation.
+- Keep it short: one rule or idea = one short sentence.
+- Group it: split long lists into small groups so I can check them quickly.
+- Use tables and flowcharts: for steps, comparisons and flows.
+- Draft before saving: show me the page first; save it after I approve.
+
 **App name:** [RC PDF Catalog Maker] — placeholder name, not yet official. Update this everywhere it appears once the real name is confirmed.
 
 **Context:** I am a Business Analyst building a Shopify app, currently called [RC PDF Catalog Maker]. I need to write guidance documents for users/customers on how to use our app.
