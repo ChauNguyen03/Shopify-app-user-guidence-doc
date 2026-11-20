@@ -1,5 +1,5 @@
-**Page name:** Installation
-**Short description:** Install RC PDF Catalog Maker and turn it on in your theme.
+## Page name: Installation
+## Short description: Install RC PDF Catalog Maker and turn it on in your theme.
 
 ---
 
