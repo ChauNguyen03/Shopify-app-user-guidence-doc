@@ -21,19 +21,19 @@ There are 3 page types. Pick the type first, then follow its format.
    |---|---|
    | In the Design editor, under **More settings**, open **[Panel]**. | *(screenshot: panel highlighted, no number)* |
 
-5. **What you can do** (Heading 1): a 3-column table.
+5. **What you can do** (Heading 1): a 2-column table.
 
-   | Feature | Editor | Preview |
-   |---|---|---|
-   | **1. Feature name** | *(one screenshot for all rows, numbered 1, 2, 3…)* | *(storefront result, optional)* |
-   | **2. Feature name** — Short description, only if the name isn't clear. | | |
-   | **3. Feature name** — Choose how…: Option A, Option B, or Option C. | | |
+   | Steps (N) | Preview |
+   |---|---|
+   | **1. Step name** — in **[location]**, pick a setting:<br>&nbsp;&nbsp;▸ **Sub-option**<br>&nbsp;&nbsp;▸ **Sub-option** | *(one screenshot for this step: the editor panel and its storefront result, side by side, with a short caption underneath)* |
+   | **2. Step name** — Short description, only if the name isn't clear. | *(its own screenshot + caption)* |
 
-   - One row per feature, numbered in the same order as the screenshot badges.
-   - The Editor and Preview cells can be merged across all rows, with one screenshot each.
-   - Add a description only when the feature name doesn't explain itself.
+   - **Steps (N)** in the column header is the number of steps in this table.
+   - One row per step, each with its own screenshot (not one shared screenshot for the whole table).
+   - Sub-options go as indented bullets under the step, not as separate rows.
+   - Add a description only when the step name doesn't explain itself.
 
-6. **Troubleshooting** (Heading 1, optional): only when merchants are likely to hit errors.
+6. **Troubleshooting** (Heading 1): only add this section when the user explicitly asks for it — never on your own, even if a screenshot shows a visible warning or error.
 
    | Case | Issue | Solution |
    |---|---|---|

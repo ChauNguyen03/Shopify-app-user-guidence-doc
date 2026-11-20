@@ -18,20 +18,13 @@ From the **Dashboard**, click **Create new catalog**.
 
 # What you can do
 
-1. **Choose a template** — Pick a ready-made layout (for example **Classic catalog**, **Home decoration**, **Men's fashion**), or click **Start blank** to design from scratch.
-2. **Set page setup** — Choose **Page size**, **Orientation**, **Catalog language**, and **Catalog currency**.
-   - Language and currency stay fixed after this. Duplicate the catalog later to use different ones.
-3. **Design your pages** — Click **Add section** to add **Cover**, **Back**, **Product**, or **Custom** pages, then **Add block** (Text, Shape, Line, Image, Button, QR code, Product card) to build each one.
-4. **Edit your products** — Go to the **Products** tab to edit product details for this catalog (title, description, product type, vendor, tags, total inventory, variant info) without changing your store. Click **Sync from Shopify** to pull in the latest store data, and **Reset to Shopify** to undo an edited field.
-5. **Set global settings** — Go to the **Global settings** tab to set options that apply to the whole catalog: **Logo**, **Typography**, **Page**, **Language and currency**, **Price**, **Card templates**, **Buttons**, **Flipbook**.
-
-![Flow: Choose a template → Page setup → Design → Products → Global settings](create-first-catalog-flow.jpg)
-
-# Troubleshooting
-
-| Case | Issue | Solution |
-|---|---|---|
-| **Overflowing page** | A warning reads "Some product pages overflow the printable area," with a link to the affected page. | Open the linked page and reduce the number of products, or adjust the layout, so the content fits the printable area. |
+| Steps (5) | Preview |
+|---|---|
+| **1. Choose a template** — pick a ready-made layout, or start from scratch:<br>&nbsp;&nbsp;▸ **Classic catalog**, **Home decoration**, **Men's fashion**<br>&nbsp;&nbsp;▸ **Start blank** | ![Choose a template](step1-choose-template.jpg) |
+| **2. Set page setup** — choose:<br>&nbsp;&nbsp;▸ **Page size**<br>&nbsp;&nbsp;▸ **Orientation**<br>&nbsp;&nbsp;▸ **Catalog language**<br>&nbsp;&nbsp;▸ **Catalog currency**<br>Language and currency stay fixed after this. Duplicate the catalog later to use different ones. | ![Page setup](step2-page-setup.jpg) |
+| **3. Design your pages** — click **Add section** to add:<br>&nbsp;&nbsp;▸ **Cover**, **Back**, **Product**, or **Custom** pages<br>then **Add block** (Text, Shape, Line, Image, Button, QR code, Product card) to build each one. | ![Design — Add section](step3-design-add-section.jpg) |
+| **4. Edit your products** — in the **Products** tab, edit product details for this catalog (title, description, product type, vendor, tags, total inventory, variant info) without changing your store.<br>&nbsp;&nbsp;▸ **Sync from Shopify** — pull in the latest store data<br>&nbsp;&nbsp;▸ **Reset to Shopify** — undo an edited field | ![Products tab](step4-products.jpg) |
+| **5. Set global settings** — in the **Global settings** tab, set options for the whole catalog:<br>&nbsp;&nbsp;▸ **Logo**, **Typography**, **Page**, **Language and currency**, **Price**, **Card templates**, **Buttons**, **Flipbook** | ![Global settings tab](step5-global-settings.jpg) |
 
 # Note
 This page covers the overall flow only. For the full settings on each piece — individual blocks, Header and footer, Card templates, and the rest — see their own guide pages.
