@@ -83,6 +83,7 @@ One-line answer naming the setting in bold.
 - Verb-first ("Set...", "Click...", "Choose..."), not "You can..."
 - One idea per line. Put rules and limits in a sub-point (e.g. "• Not available with the Slider layout.")
 - Explain only what the name doesn't already say
+- **Group simple, similar items into one line** instead of listing each separately (e.g. 3 template options that all work the same way → one bullet naming all 3, not 3 bullets). If the screenshot already makes something obvious at a glance, keep its text short, or skip explaining it at all.
 - Keep every line short: plain words, no jargon, aim for under ~10 words on the main line
 - Each description starts with a capital letter and ends with a full stop
 - Use the exact UI labels from the app, in bold (e.g. **Continue to editor**, **Browse files**)
