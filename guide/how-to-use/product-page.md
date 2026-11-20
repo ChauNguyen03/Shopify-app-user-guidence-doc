@@ -38,8 +38,8 @@ Set up a product page: choose which products to show, set their layout and color
 
 | Field | What it does | Preview |
 |---|---|---|
-| **1. Match** — at the top, choose whether **all** or any of the groups must match. | Each group repeats the same 4 controls. | ![Group 1](advanced-groups-1.jpg) |
-| **2. Match** (inside a group) — choose whether **all** or any of that group's own conditions must match. | | |
+| **1. Match** — at the top, choose **All** (every group must match) or **Any** (at least one group must match). | Each group repeats the same 4 controls. | ![Group 1](advanced-groups-1.jpg) |
+| **2. Match** (inside a group) — choose **All** (every condition in the group must match) or **Any** (at least one must match). | | |
 | **3. Conditions** — the condition rows inside that group, same as above (Field, Operator, Value). | | ![Group 2](advanced-groups-2.jpg) |
 | **4. + Add condition** — add another rule to that specific group. | | |
 | **5. Delete group** (trash icon) — remove that group. | | |
