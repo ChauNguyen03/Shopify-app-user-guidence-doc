@@ -20,11 +20,11 @@ Set up a product page: choose which products to show, set their layout and color
 
 | Steps (5) | Preview |
 |---|---|
-| **1. Choose your products** — set **Source** to **Products** to pick products yourself, or **Products by condition** to match them by rule (see below). | ![Source](product-source.jpg) |
-| **2. Set the layout** — set **Columns**, **Rows**, **Space between cards**, and **Card style**. | ![Layout](product-layout.jpg) |
-| **3. Set page colors** — set **Background** and **Dividers**. | ![Page colors](product-colors.jpg) |
-| **4. Set the header** — set **Header text**, **Date**, **Show divider line**, **Show logo**, and **Alignment**, plus their text style and color under **Typography** and **Colors**. | ![Header](product-header.jpg) |
-| **5. Set the footer** — set **Show divider line**, **Page number**, **Footer text**, and **Alignment**, plus their text style and color under **Typography** and **Colors**. | ![Footer](product-footer.jpg) |
+| **1. Choose your products** — set **Source**:<br>&nbsp;&nbsp;▸ **Products** — pick products yourself<br>&nbsp;&nbsp;▸ **Products by condition** — match them by rule (see below) | ![Source](product-source.jpg) |
+| **2. Set the layout**:<br>&nbsp;&nbsp;▸ **Columns**<br>&nbsp;&nbsp;▸ **Rows**<br>&nbsp;&nbsp;▸ **Space between cards**<br>&nbsp;&nbsp;▸ **Card style** | ![Layout](product-layout.jpg) |
+| **3. Set page colors**:<br>&nbsp;&nbsp;▸ **Background**<br>&nbsp;&nbsp;▸ **Dividers** | ![Page colors](product-colors.jpg) |
+| **4. Set the header**:<br>&nbsp;&nbsp;▸ **Header text**<br>&nbsp;&nbsp;▸ **Date**<br>&nbsp;&nbsp;▸ **Show divider line**<br>&nbsp;&nbsp;▸ **Show logo**<br>&nbsp;&nbsp;▸ **Alignment**<br>&nbsp;&nbsp;▸ **Header text** style (Typography)<br>&nbsp;&nbsp;▸ **Date** style (Typography)<br>&nbsp;&nbsp;▸ **Header text** color (Colors)<br>&nbsp;&nbsp;▸ **Date** color (Colors) | ![Header](product-header.jpg) |
+| **5. Set the footer**:<br>&nbsp;&nbsp;▸ **Show divider line**<br>&nbsp;&nbsp;▸ **Page number**<br>&nbsp;&nbsp;▸ **Footer text**<br>&nbsp;&nbsp;▸ **Alignment**<br>&nbsp;&nbsp;▸ **Footer text** style (Typography)<br>&nbsp;&nbsp;▸ **Page number** style (Typography)<br>&nbsp;&nbsp;▸ **Footer text** color (Colors)<br>&nbsp;&nbsp;▸ **Page number** color (Colors) | ![Footer](product-footer.jpg) |
 
 **Products by condition**
 
