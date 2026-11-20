@@ -32,10 +32,10 @@ Set up a product page: choose which products to show, set their layout and color
 |---|---|
 | **Condition row** — pick a **Field** (e.g. Title, Tag), an **Operator** (e.g. contains, is), and a **Value**. | ![Conditions](product-source-conditions.jpg) |
 | **+ Add condition** — add another rule to the current group. | |
+| **Match** — choose **All** (every condition must match) or **Any** (at least one must match). | |
 | **Apply** — save the conditions. | |
 
-- With 2+ conditions here, every one must match (**All**) — `[TBC: no Match selector is shown in this view; confirm this is the fixed behavior]`.
-- Turn on **Advanced (use groups)** to choose **All** or **Any** instead (see below).
+- Turn on **Advanced (use groups)** to split conditions into separate groups, each with its own **All**/**Any** match (see below).
 
 **Advanced (use groups)** — turn this on to split your conditions into separate groups, each matched on its own.
 
