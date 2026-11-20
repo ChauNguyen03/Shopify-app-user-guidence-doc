@@ -16,7 +16,7 @@ description: Write or fix a merchant user guide / help center page for any RockC
 ## Your workflow
 
 ### Step 0 — Build the guide outline first
-1. Read `catalog-maker-summary.png` and `User Guide Outline.xlsx` to learn the app and the planned guide structure.
+1. Read `context.md` and `User Guide Outline.xlsx` to learn the app and the planned guide structure.
 2. Draft the full guide outline from those two sources (the list of pages/sections the guide will contain).
 3. Show me the outline and **wait for my OK** before writing any individual page.
 
@@ -34,7 +34,7 @@ description: Write or fix a merchant user guide / help center page for any RockC
 ### Step 3 — Individual "How to use" pages
 All individual pages belong under **How to use**. I provide a screenshot of the real UI for each one. For each page:
 
-1. **Understand the app.** Read the app summary (`catalog-maker-summary.png`, or sent by me) to learn what the app is and how it works. If you can't find one, ask me first.
+1. **Understand the app.** Read the app summary (`context.md`, or sent by me) to learn what the app is and how it works. If you can't find one, ask me first.
 2. **Pick the page type.** Read `page-template.md` and choose the page type that fits the request, then read every rule file it links under `rules/` (content and screenshot rules) — they aren't optional extras.
 3. **Check examples.** Look at the example screenshots: one per page type, and one showing how to highlight. If you can't find them, ask once.
 4. **Verify, don't guess.** Check field names and behavior against the screenshot and the app's reference material. Never invent fields or behavior.

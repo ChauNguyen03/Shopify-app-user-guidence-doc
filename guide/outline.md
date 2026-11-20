@@ -1,6 +1,6 @@
 # RC PDF Catalog Maker — User Guide Outline
 
-Approved outline (Step 0). Built from `catalog-maker-summary.png` and the "User Guide Outline" / "Function Decomposition" tabs in `screenshots/examples/User Guide Outline.xlsx`.
+Approved outline (Step 0). Built from `context.md` and the "User Guide Outline" / "Function Decomposition" tabs in `screenshots/examples/User Guide Outline.xlsx`.
 
 | # | Group | Sub-section | Guide page | Covers |
 |---|---|---|---|---|
