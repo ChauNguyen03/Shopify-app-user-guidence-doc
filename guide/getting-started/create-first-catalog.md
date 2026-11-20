@@ -27,4 +27,4 @@ Create your first catalog and set it up end to end: pick a starting point, lock 
 | **5. Set global settings** — in the **Global settings** tab, set options for the whole catalog:<br>&nbsp;&nbsp;▸ **Logo**, **Typography**, **Page**, **Language and currency**, **Price**, **Card templates**, **Buttons**, **Flipbook** | ![Global settings tab](step5-global-settings.jpg) |
 
 # Note
-This page covers the overall flow only. For the full settings on each piece — individual blocks, Header and footer, Card templates, and the rest — see their own guide pages.
+This page covers the overall flow only. For the full settings on each piece — individual blocks, Header and footer, Card templates, and the rest — see their own guide pages at [documentations.rockcats.site/e/en/apps/rc-ctalog-maker](https://documentations.rockcats.site/e/en/apps/rc-ctalog-maker).

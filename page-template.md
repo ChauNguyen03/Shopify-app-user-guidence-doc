@@ -39,7 +39,7 @@ There are 3 page types. Pick the type first, then follow its format.
    |---|---|---|
    | **Short case name** | One line + issue screenshot | One line + fix screenshot |
 
-7. **Note** (optional): one line at the end for a rule that applies to the whole page.
+7. **Note** (optional): one line at the end for a rule that applies to the whole page. Include a link to the docs site (https://documentations.rockcats.site/e/en/apps/rc-ctalog-maker) when it helps the reader find other individual pages.
 
 ---
 
