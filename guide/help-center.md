@@ -19,8 +19,7 @@ Step-by-step guides to set up and use your catalogs and flipbooks.
 
 | Page # | Guide | What you'll learn |
 |---|---|---|
-| 4 | Product page | Set product source, layout, card template, and colors. |
-| 5 | Header and footer | Add a header and footer to your pages. |
+| 4–5 | [How to set up the product page](how-to-use/product-page.md) | Set product source and conditions, layout, card style, colors, header, and footer. |
 
 # How to use — Product detail
 

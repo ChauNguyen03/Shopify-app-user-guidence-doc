@@ -7,8 +7,7 @@ Approved outline (Step 0). Built from `catalog-maker-summary.png` and the "User 
 | 1 | Getting started | — | What is RC PDF Catalog Maker | What it does, main parts, general flow |
 | 2 | Getting started | — | Installation | — (saved: `guide/getting-started/installation.md`) |
 | 3 | Getting started | — | Create your first catalog | — (saved: `guide/getting-started/create-first-catalog.md`) |
-| 4 | How to use | Product pages | Product page | Product source & smart filter, show-only filters, layout & card template, colors |
-| 5 | How to use | Product pages | Header and footer | Header, footer |
+| 4–5 | How to use | Product pages | How to set up the product page | Product source & conditions, layout, card style, colors, header, footer — (saved: `guide/how-to-use/product-page.md`; merges the former #4 Product page and #5 Header and footer into one page) |
 | 6 | How to use | Other pages | Cover, back, and custom pages | Add a page, background (these 3 page types share the same settings and blocks) |
 | 7 | How to use | Custom section | Text block | Content and style |
 | 8 | How to use | Custom section | Shape and line blocks | Shape type, fill, stroke, line color |
@@ -42,4 +41,5 @@ Approved outline (Step 0). Built from `catalog-maker-summary.png` and the "User 
 - [x] Step 1 standing pages: Contact us, Installation, Privacy Policy (Installation has 2 `[TBC]` spots pending the theme-embed screenshot)
 - [x] Step 2: Help Center page (`guide/help-center.md`)
 - [x] #3 Create your first catalog (general flow)
-- [ ] Step 3: individual "How to use" pages (#4–21), one screenshot at a time
+- [x] #4–5 How to set up the product page (merged Product page + Header and footer)
+- [ ] Step 3: remaining individual "How to use" pages (#6–21), one screenshot at a time
