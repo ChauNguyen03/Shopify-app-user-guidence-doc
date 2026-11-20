@@ -91,6 +91,7 @@ One-line answer naming the setting in bold.
 - US English ("color", not "colour")
 - Use "and" instead of "&" in sentences
 - Page numbers belong only in the Help Center **Page #** column, never in guide or FAQ text
+- **Deliver content and its highlighted screenshot together, in the same pass** — never hand over a plain, unhighlighted screenshot and add the highlighting later as a follow-up
 
 ## Naming
 
