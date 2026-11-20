@@ -101,8 +101,10 @@ One-line answer naming the setting in bold.
 - **Highlight box:** rounded rectangle around the field to focus on
 - **Where to see & edit image:** box only, no number
 - **What you can do image:** number each feature on the screenshot to match its row in the table
+- **Badge order:** number badges in the screenshot's own top-to-bottom reading order, and write the text sub-bullets in that same order — never assign numbers by an arbitrary list order that doesn't match how they actually sit on screen
+- **Same action, multiple controls:** when several controls do the same logical action (e.g. 3 "Use template" buttons for 3 templates), give them all the same badge number rather than numbering each one separately
 - **Flow across screens:** combine into one image, with a blue arrow between screens
-- **Two different places:** combine side by side with a grey dashed divider and a blue label on each
+- **Two different places:** combine side by side with a grey dashed divider and a blue label on each; the labels are the caption — don't add another caption line below as well
 - **Errors (Troubleshooting):** red boxes and red labels; fixes use blue
 - **Labels on images:** short, e.g. "Before: blocks drawn wrong", "Fix: delete error blocks and draw new ones"
 - **Privacy:** blur store names, store URLs, theme names, real folders, and the app's internal name in the Shopify sidebar
