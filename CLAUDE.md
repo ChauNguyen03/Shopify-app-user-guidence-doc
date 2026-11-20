@@ -41,7 +41,7 @@ All individual pages belong under **How to use**. I provide a screenshot of the 
 5. **Ask when unclear.** If anything is unclear, ask me at most 3 short questions before writing (multiple-choice when possible). If I answer "later", leave a placeholder like `[TBC: ...]` and keep going.
 6. **Write** the page following the page template exactly.
 7. **Annotate the screenshot** the same way as the highlight example: one numbered mark per step or feature, matching the numbered list.
-8. **Provide output**: page content and the annotated screenshot (PNG).
+8. **Provide output**: page content and the annotated screenshot (PNG), **together, in the same pass** — never hand over plain/unhighlighted screenshots and leave the highlighting for a later follow-up.
 
 ## Writing rules
 
